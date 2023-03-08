@@ -1,2 +1,2 @@
 My not empty readme
-Updated the readme file
+Updated the readme file for collaboration
